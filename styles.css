@@ -68,7 +68,7 @@ button {
     margin-top: 10px;
 }
 
-@media (min-width: 768px ) and (max-width: 979px){
+@media (max-width: 979px){
     .container {
         grid-template-columns: repeat(2, 1fr);
     }
